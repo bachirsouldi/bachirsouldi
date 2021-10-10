@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Php](http://img.shields.io/badge/-Php-339933?style=flat-square&logo=php&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20XD-E222AC?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 
 #### Mobile
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-FFCA28?style=flat-square&logo=oracle&logoColor=ffffff)
 
 
 
