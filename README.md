@@ -2,6 +2,8 @@
 
 **bachirsouldi/bachirsouldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![header](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -41,9 +43,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-FFCA28?style=flat-square&logo=oracle&logoColor=ffffff)
 
-
-
-![header](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
    
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachirsouldi&count_private=true&theme=chartreuse-dark)](https://github.com/bachirsouldi/github-readme-stats)
  
