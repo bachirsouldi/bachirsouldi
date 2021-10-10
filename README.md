@@ -25,11 +25,15 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![Php](http://img.shields.io/badge/-Php-339933?style=flat-square&logo=php&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20XD-E222AC?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 
 #### Mobile
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Flutter](http://img.shields.io/badge/-Flutter-3DDC84?style=flat-square&logo=flutter&logoColor=ffffff)
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
