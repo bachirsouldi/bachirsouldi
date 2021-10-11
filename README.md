@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/-Oracle-FFCA28?style=flat-square&logo=oracle&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-FF0000?style=flat-square&logo=oracle&logoColor=ffffff)
 
 
 #### Others
