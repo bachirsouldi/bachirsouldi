@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
 ![VueJs](https://img.shields.io/badge/-Vue-%23CC6699?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20XD-E222AC?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 
 
 #### Mobile
@@ -45,6 +44,11 @@ Here are some ideas to get you started:
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-FFCA28?style=flat-square&logo=oracle&logoColor=ffffff)
+
+
+#### Others
+![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
+![Adobe photoshop](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
    
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachirsouldi&count_private=true&theme=chartreuse-dark)](https://github.com/bachirsouldi/github-readme-stats)
