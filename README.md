@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C](http://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Heroku](http://img.shields.io/badge/-heroku-6762A6?style=flat-square&logo=heroku&logoColor=ffffff)
 
 #### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
