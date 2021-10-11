@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
 ![VueJs](https://img.shields.io/badge/-Vue-%23CC6699?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20XD-E222AC?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=after-effect&logoColor=ffffff)
+![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 
 
 #### Mobile
