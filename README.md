@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Mobile
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Flutter](http://img.shields.io/badge/-Flutter-3DDC84?style=flat-square&logo=flutter&logoColor=ffffff)
+![Flutter](http://img.shields.io/badge/-Flutter-53C6F8?style=flat-square&logo=flutter&logoColor=ffffff)
 
 
 #### Database
