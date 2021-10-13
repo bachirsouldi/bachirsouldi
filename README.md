@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 #### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231572B6?style=flat-square&logo=bootstrap)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![jQuery](http://img.shields.io/badge/-JQuery-33aa33?style=flat-square&logo=jquery&logoColor=ffffff)
