@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 #### Others
 ![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
-![Adobe photoshop](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe photoshop](http://img.shields.io/badge/-Abode%20Photoshop-E222AC?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
    
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachirsouldi&count_private=true&theme=chartreuse-dark)](https://github.com/bachirsouldi/github-readme-stats)
