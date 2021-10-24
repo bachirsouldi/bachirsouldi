@@ -1,6 +1,6 @@
 ### Hi there I am bachir souldi👋
 
-**bachirsouldi/bachirsouldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bachir souldi** is a ✨ Fullstack and mobile app developer ✨ with an engineering degree in management of information systems from National polytechnic school Oran Algeria
 
 ![header](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
 
