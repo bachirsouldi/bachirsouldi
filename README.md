@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![jQuery](http://img.shields.io/badge/-JQuery-33aa33?style=flat-square&logo=jquery&logoColor=ffffff)
-![Php](http://img.shields.io/badge/-Php-339933?style=flat-square&logo=php&logoColor=ffffff)
+![Php](http://img.shields.io/badge/-Php-474A8A?style=flat-square&logo=php&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23F05340?style=flat-square&logo=laravel&logoColor=ffffff)
 ![VueJs](https://img.shields.io/badge/-Vue-%2341B883?style=flat-square&logo=vue.js&logoColor=ffffff)
