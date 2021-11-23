@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 
 ### My Tech Stack
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C](http://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-%23F05340?style=flat-square&logo=laravel&logoColor=ffffff)
+![VueJs](https://img.shields.io/badge/-Vue-%2341B883?style=flat-square&logo=vue.js&logoColor=ffffff)
+![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
+
+
+
 
 #### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -37,6 +41,7 @@ Here are some ideas to get you started:
 
 
 #### Mobile
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-53C6F8?style=flat-square&logo=flutter&logoColor=ffffff)
 
@@ -49,6 +54,9 @@ Here are some ideas to get you started:
 
 
 #### Others
+![C](http://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Adobe After effect](http://img.shields.io/badge/-Abode%20After%20effect-E222AC?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Adobe photoshop](http://img.shields.io/badge/-Abode%20Photoshop-E222AC?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
