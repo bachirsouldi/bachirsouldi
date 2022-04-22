@@ -9,7 +9,9 @@ Fullstack Developer
 *   ✉️  You can contact me at [souldibachir3150@gmail.com](mailto:souldibachir3150@gmail.com)
 *   🤝  I'm open to collaborating on Mobile application projects<a href="https://www.twitter.com/bachirsouldi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/bachirsouldi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+                /></a>
+  ### Skills
+                <p align="left">
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
