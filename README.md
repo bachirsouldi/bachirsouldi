@@ -62,3 +62,5 @@ src="https://img.shields.io/twitter/follow/bachirsouldi?logo=twitter&style=for-t
 <a href="http://www.github.com/bachirsouldi"><img src="https://github-readme-stats.vercel.app/api?username=bachirsouldi&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bachirsouldi's GitHub stats" /></a>
 
 <a href="http://www.github.com/bachirsouldi"><img src="https://activity-graph.herokuapp.com/graph?username=bachirsouldi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachirsouldi&layout=compact)](https://github.com/bachirsouldi/github-readme-stats)
