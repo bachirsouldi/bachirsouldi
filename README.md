@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  I'm based in Oran, Algeria
 * 🖥️  See my portfolio at [http://souldibachir.netlify.app](http://souldibachir.netlify.app/)
 * ✉️  You can contact me at [souldibachir3150@gmail.com](mailto:souldibachir3150@gmail.com)
-* 🤝  I'm open to collaborating on Mobile application projects
+* 🤝  I'm open to collaborate on Mobile application projects
 
 <a href="https://www.twitter.com/bachirsouldi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bachirsouldi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
