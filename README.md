@@ -57,15 +57,15 @@ src="https://img.shields.io/twitter/follow/bachirsouldi?logo=twitter&style=for-t
 
 <p align="left"> <a href="https://www.behance.com/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bachirsouldi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bachirsouldi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bachirsouldi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bachirsouldi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bachirsouldi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=bachirsouldi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/bachirsouldi"><img src="https://github-readme-stats.vercel.app/api?username=bachirsouldi&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bachirsouldi's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachirsouldi&layout=compact&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/bachirsouldi/github-readme-stats)
-
-<a href="http://www.github.com/bachirsouldi"><img src="https://activity-graph.herokuapp.com/graph?username=bachirsouldi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
